@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+
+.item{
+    position: absolute;
+    height: 359px !important;
+}
+
+.center {
+    background-color: #CACFD2;
+    margin: auto;
+    width: 50%;
+    border: solid #34495E;
+}
+.carousel-size{
+    width: 905px !important;
+}
+.displayed{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
