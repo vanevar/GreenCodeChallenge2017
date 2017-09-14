@@ -31,5 +31,70 @@
         "descr": "Californa",
         "width": 210,
         "height": 157
-    }]
+    },
+    {
+        "id": 4,
+        "src": "\\images\\turtle.jpg",
+        "alt": "turtle fishes sea",
+        "descr": "Turtle",
+        "width": 500,
+        "height": 300
+    },
+    {
+        "id": 5,
+        "src": "\\images\\london.jpg",
+        "alt": "london worker",
+        "descr": "London Working",
+        "width": 600,
+        "height": 300
+    },
+    {
+        "id": 6,
+        "src": "\\images\\tapis.jpg",
+        "alt": "tapis red",
+        "descr": "Fabric",
+        "width": 187,
+        "height": 500
+    },
+    {
+        "id": 7,
+        "src": "\\images\\headlight.jpg",
+        "alt": "BMW light",
+        "descr": "BMW",
+        "width": 400,
+        "height": 180
+    },
+    {
+        "id": 8,
+        "src": "\\images\\potter.jpg",
+        "alt": "Harry Potter sticker",
+        "descr": "Harry Potter",
+        "width": 222,
+        "height": 185
+    },
+    {
+        "id": 9,
+        "src": "\\images\\outfits.png",
+        "alt": "woman worker outfit",
+        "descr": "Ready for work",
+        "width": 960,
+        "height": 260
+    },
+    {
+        "id": 10,
+        "src": "\\images\\fisherman.jpg",
+        "alt": "City outline fisherman",
+        "descr": "Fisherman",
+        "width": 769,
+        "height": 311
+    },
+    {
+        "id": 11,
+        "src": "\\images\\reddress.png",
+        "alt": "Girl red dress",
+        "descr": "Couture",
+        "width": 773,
+        "height": 331
+    }
+]
 }
