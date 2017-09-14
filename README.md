@@ -15,7 +15,7 @@
   git pull origin master
   '''
    
-## Run backend go to backend Folder
+## Run server
   For first time use you have to install node dependencies
   execute following command
     '''
@@ -26,7 +26,7 @@
     node server.js
     '''
     
-    Now you must see Server is running on localhost:3000
+    Now you must see webpage running on localhost:3000
     
     Open browser and go to localhost:3000/
     
