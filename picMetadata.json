@@ -1,1 +1,28 @@
-{"hello":" there"}
+{
+    "images" : [
+        { 
+            "src" : "\\images\\city.jpg",
+            "alt" : "city night",
+            "descr" : "City",
+            "size" : "275x183px"
+        },
+        { 
+            "src" : "\\images\\fractal.jpg",
+            "alt" : "purple fractal",
+            "descr" : "",
+            "size" : "900x360px"
+        },
+        { 
+            "src" : "\\images\\love.jpg",
+            "alt" : "love ring",
+            "descr" : "Love",
+            "size" : "275x183px"
+        },
+        { 
+            "src" : "\\images\\california.jpg",
+            "alt" : "california road sign",
+            "descr" : "Californa",
+            "size" : "210x157px"
+        }
+    ]
+}
