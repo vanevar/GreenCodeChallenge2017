@@ -9,11 +9,12 @@
 </head>
 
 <body>
+  <h1>My Green Code Challenge</h1>
   <div class="container">
     <div ng-controller="mainCtrl" ng-init="getJson()" id="slides_control">
-      <carousel interval="3000">
+      <carousel interval="3000" class="carousel-size center">
         <slide ng-repeat="img in metadata.images" active="slide.active">
-          <img ng-src="{{img.src}}">
+          <img ng-src="{{img.src}}" class="displayed">
           <div class="carousel-caption">
             <h3>{{img.desc}}</h3>
             <p>{{img.width}}x{{img.height}}px</p>
