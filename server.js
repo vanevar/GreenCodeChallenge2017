@@ -1,7 +1,6 @@
 var express = require('express'),
 	app = express(),
 	bodyParser = require('body-parser'),
-	data = {},
 	router = express.Router(),
 	path = require("path"),
 	fs = require('fs');
@@ -11,6 +10,10 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, 'public')));
 
+app.get('/getJson',function(req,res){
+	var jsonContent=fs.readFileSync(__dirname + '/picMetadata.json');
+	res.send(JSON.parse(jsonContent));
+})
 
 app.set('port', process.env.PORT || 3000);
 
