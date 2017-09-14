@@ -14,7 +14,7 @@ body{
     border: solid #34495E;
 }
 .carousel-size{
-    width: 905px !important;
+    width: 100% !important;
 }
 .displayed{
     position: relative;
