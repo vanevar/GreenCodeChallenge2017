@@ -4,7 +4,7 @@
         "id": 0,
         "src": "\\images\\city.jpg",
         "alt": "city night",
-        "descr": "City",
+        "desc": "City",
         "width": 275,
         "height": 183
     },
@@ -12,7 +12,7 @@
         "id": 1,
         "src": "\\images\\fractal.jpg",
         "alt": "purple fractal",
-        "descr": "",
+        "desc": "Fractal",
         "width": 900,
         "height": 360
     },
@@ -20,7 +20,7 @@
         "id": 2,
         "src": "\\images\\love.jpg",
         "alt": "love ring",
-        "descr": "Love",
+        "desc": "Love",
         "width": 275,
         "height": 189
     },
@@ -28,7 +28,7 @@
         "id": 3,
         "src": "\\images\\california.jpg",
         "alt": "california road sign",
-        "descr": "Californa",
+        "desc": "Californa",
         "width": 210,
         "height": 157
     },
@@ -36,7 +36,7 @@
         "id": 4,
         "src": "\\images\\turtle.jpg",
         "alt": "turtle fishes sea",
-        "descr": "Turtle",
+        "desc": "Turtle",
         "width": 500,
         "height": 300
     },
@@ -44,23 +44,23 @@
         "id": 5,
         "src": "\\images\\london.jpg",
         "alt": "london worker",
-        "descr": "London Working",
+        "desc": "London Working",
         "width": 600,
         "height": 300
     },
     {
         "id": 6,
-        "src": "\\images\\tapis.jpg",
-        "alt": "tapis red",
-        "descr": "Fabric",
-        "width": 187,
-        "height": 500
+        "src": "\\images\\guitar.jpg",
+        "alt": "electric guitar",
+        "desc": "Music",
+        "width": 180,
+        "height": 360
     },
     {
         "id": 7,
         "src": "\\images\\headlight.jpg",
         "alt": "BMW light",
-        "descr": "BMW",
+        "desc": "BMW",
         "width": 400,
         "height": 180
     },
@@ -68,7 +68,7 @@
         "id": 8,
         "src": "\\images\\potter.jpg",
         "alt": "Harry Potter sticker",
-        "descr": "Harry Potter",
+        "desc": "Harry Potter",
         "width": 222,
         "height": 185
     },
@@ -76,7 +76,7 @@
         "id": 9,
         "src": "\\images\\outfits.png",
         "alt": "woman worker outfit",
-        "descr": "Ready for work",
+        "desc": "Ready for work",
         "width": 960,
         "height": 260
     },
@@ -84,7 +84,7 @@
         "id": 10,
         "src": "\\images\\fisherman.jpg",
         "alt": "City outline fisherman",
-        "descr": "Fisherman",
+        "desc": "Fisherman",
         "width": 769,
         "height": 311
     },
@@ -92,7 +92,7 @@
         "id": 11,
         "src": "\\images\\reddress.png",
         "alt": "Girl red dress",
-        "descr": "Couture",
+        "desc": "Couture",
         "width": 773,
         "height": 331
     }
